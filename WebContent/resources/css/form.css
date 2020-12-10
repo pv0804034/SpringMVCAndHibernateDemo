@@ -1,0 +1,15 @@
+#header {
+  text-align: center;
+  background-color: green;
+  font-size: 2vw;
+  font-weight: bold;
+  height: 4vw;
+  width: 100%;
+}
+
+.label{
+	margin-left: 10px;
+	font-weight: bold;
+	font-size: 2vw;
+}
+

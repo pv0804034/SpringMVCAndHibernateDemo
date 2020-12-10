@@ -1,0 +1,45 @@
+#header {
+  text-align: center;
+  background-color: green;
+  font-size: 2vw;
+  font-weight: bold;
+  height: 4vw;
+  width: 100%;
+}
+
+#AddButton{
+		text-align: center;
+		background-color: gray;
+		margin-top: 10px;
+		margin-bottom: 10px;
+}
+
+#content {
+  text-align: center;
+  background-color: gray;
+  font-size: 1vw;
+  font-weight: bold;
+  width: 100%;
+}
+
+table {
+  border: 2px solid black;
+  width: 100%;
+}
+tr {
+  height: 3vw;
+  width: 100%;
+  border: 1px solid black;
+}
+
+th {
+  width: 25%;
+  background-color: #595b56;
+  border: 1px solid black;
+}
+
+td {
+  width: 25%;
+  border: 1px solid black;
+}
+
